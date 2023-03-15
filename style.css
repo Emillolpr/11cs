@@ -84,7 +84,7 @@ h1 h2 h3 h4 h5 h6 {
 
 @media only screen and (min-device-width: 640px) {
   body {
-    background: rgb(66, 218, 218);
+    background: rgb(255, 255, 255);
     background: -webkit-linear-gradient(top, rgb(179, 197, 225) 21%, rgb(179, 197, 225) 21%, rgb(193, 218, 235) 40%, rgb(207, 226, 243) 52%, rgb(207, 226, 243), 1) 65%, rgb(179, 197, 225) 82%;
   }
   .link-1,
