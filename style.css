@@ -147,7 +147,9 @@ h1 h2 h3 h4 h5 h6 {
 @media only screen and (max-device-width: 640px) {
   body {
     background: rgb(255, 255, 255);
-    .link-1,
+    
+  }
+  .link-1,
     .link-2,
     .link-3,
     .link-4,
@@ -158,5 +160,4 @@ h1 h2 h3 h4 h5 h6 {
         cursor: pointer;
         text-decoration: none;
       }
-  }
 }
