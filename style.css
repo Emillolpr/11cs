@@ -146,6 +146,6 @@ h1 h2 h3 h4 h5 h6 {
 }
 @media only screen and (max-device-width: 640px) {
   body {
-    background: rgb(53, 35, 35);
+    background: rgb(146, 30, 30);
   }
 }
