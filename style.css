@@ -147,6 +147,16 @@ h1 h2 h3 h4 h5 h6 {
 @media only screen and (max-device-width: 640px) {
   body {
     background: rgb(255, 255, 255);
-    color: black
+    .link-1,
+    .link-2,
+    .link-3,
+    .link-4,
+    .link-5 {
+        margin: 20px;
+        color: #000000;
+        position: relative;
+        cursor: pointer;
+        text-decoration: none;
+      }
   }
 }
