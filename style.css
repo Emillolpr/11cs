@@ -154,8 +154,7 @@ h1 h2 h3 h4 h5 h6 {
 .link-3,
 .link-4,
 .link-5 {
-    margin: 3px;
+    margin: 2px;
     color: #000000;
-    position: fixed;
   }
 }
